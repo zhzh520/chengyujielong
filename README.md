@@ -52,7 +52,8 @@
 2. 按**一行一个成语**格式填入四字成语
 3. 确保路径与代码中读取路径一致
 
-![image-20260404200259694](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260404200259694.png)
+<img width="451" height="494" alt="屏幕截图 2026-04-04 200256" src="https://github.com/user-attachments/assets/9cecfadd-dfef-469e-b23f-cd1ab9856745" />
+
 
 ## 步骤 3：安装 Python 依赖库
 
