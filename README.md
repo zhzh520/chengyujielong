@@ -80,7 +80,8 @@ python chengyu.py
 
 1. 出现如下提示说明启动成功：
 
-   ![屏幕截图 2026-04-04 195637](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-04 195637.png)
+<img width="761" height="255" alt="屏幕截图 2026-04-04 195637" src="https://github.com/user-attachments/assets/57fa4b7c-0b70-41ab-bcbf-14f4186f1dee" />
+
 
 2. 点击浏览器链接即可进入成语接龙游戏界面
 
@@ -97,7 +98,8 @@ python chengyu.py
    9. AI 回复展示在界面气泡中，形成完整对话历史。
    10. 可继续输入下一个成语继续接龙。
 
-![屏幕截图 2026-04-04 195616](C:\Users\huihu\Pictures\Screenshots\屏幕截图 2026-04-04 195616.png)
+<img width="925" height="900" alt="屏幕截图 2026-04-04 195616" src="https://github.com/user-attachments/assets/b0476c42-76da-461b-ab89-b8f970e1ffd1" />
+
 
 ## 实验原理
 
